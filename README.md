@@ -5,11 +5,12 @@ I am a backend developer passionate in Full Stack,Game Development and Video Edi
 
 ## About Me
 <ul>
+  <li>🏽‍ Part Time Senior Backend Developer at Puffles</li>
   <li>
-🏽‍ Backend Developer at Holosuit</li>
+🏽‍ Ex - SDE 1 - Backend  at Holosuit</li>
   
 <li>B.Tech Computer Science and Engineering Graduate (2018 -2022) - Dayananda Sagar University</li>
-<li>Interests - Full Stack Development, Game Development, Cloud Computing</li>
+<li>Interests - Full Stack Development, Internet of Things(IoT), Game Development, Cloud Computing</li>
 
 <li>📫 Contact - nobinjohnson2@gmail.com</li>
 </ul>
