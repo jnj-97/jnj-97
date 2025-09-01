@@ -1,11 +1,17 @@
 
 ## Hi There 👋 My name is Nobin Johnson
 
-I am a backend developer passionate in Full Stack,Game Development and Video Editing Domains 💻
+I am a Backend Developer and Cybersecurity passionate in Full Stack, Game Development, and Video Editing Domains 💻
 
 ## About Me
 <ul>
-  <li>🏽‍ Part Time Senior Backend Developer at Puffles</li>
+  <li>Cybersecurity Graduate Student at Canisius University</li>
+  <li> Co-Founder at Slizzr</li>
+  <li>
+🏽‍ Ex - Fullstack Developer at Capstone Integrated Solutions</li>
+  <li>
+  <li>
+🏽‍ Ex - Senior Backend, DevOps, and Blockchain Developer at Holosuit</li>
   <li>
 🏽‍ Ex - SDE 1 - Backend  at Holosuit</li>
   
