@@ -10,7 +10,9 @@ I am a Backend Developer and Cybersecurity passionate in Full Stack, Game Develo
   <li>
 🏽‍ Ex - Fullstack Developer at Capstone Integrated Solutions</li>
   <li>
-🏽‍ Ex - Senior Backend, DevOps, and Blockchain Developer at Holosuit</li>
+🏽‍ Ex - Senior Backend, DevOps, and Blockchain Developer at Puflles</li>
+   <li>
+🏽‍ Ex - Full Stack Developer at Pikky</li>
   <li>
 🏽‍ Ex - SDE 1 - Backend  at Holosuit</li>
   
