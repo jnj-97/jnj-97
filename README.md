@@ -6,15 +6,7 @@ I am a Backend Developer and Cybersecurity passionate in Full Stack, Game Develo
 ## About Me
 <ul>
   <li>Cybersecurity Graduate Student at Canisius University</li>
-  <li> Co-Founder at Slizzr</li>
-  <li>
-🏽‍ Ex - Fullstack Developer at Capstone Integrated Solutions</li>
-  <li>
-🏽‍ Ex - Senior Backend, DevOps, and Blockchain Developer at Puflles</li>
-   <li>
-🏽‍ Ex - Full Stack Developer at Pikky</li>
-  <li>
-🏽‍ Ex - SDE 1 - Backend  at Holosuit</li>
+ 
   
 <li>B.Tech Computer Science and Engineering Graduate (2018 -2022) - Dayananda Sagar University</li>
 <li>Interests - Full Stack Development, Internet of Things(IoT), Game Development, Cloud Computing</li>
